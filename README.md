@@ -11,7 +11,7 @@ The 5 that I wish to attempt are:
 For this project Data with Mo provides the following guiding questions:
 
 - Can you make the salary column into integers?
-- What informatio can you extract out of job descriptions?
+- What information can you extract out of job descriptions?
 - How can you remove the numbers from the company name?
 - How can you create some new feature? (e.g. state column from each location column)
 
