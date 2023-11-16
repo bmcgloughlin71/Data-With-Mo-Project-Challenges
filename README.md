@@ -1,5 +1,5 @@
 # Data-With-Mo-Project-Challenges
-My attempts at tackling the Data Analysis Coding Challenge Projects from Coding With Mo [Youtube Channel: ](https://www.youtube.com/watch?v=wObV_hwu2QM)
+My attempts at tackling the Data Analysis Coding Challenge Projects from Data With Mo [Youtube Channel](https://www.youtube.com/watch?v=wObV_hwu2QM)
 
 Coding With Mo proposes 5 different data analysis challange projects to add to your portfolio with 2 options for each project.
 
