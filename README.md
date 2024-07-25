@@ -16,7 +16,7 @@ For this project Data with Mo provides the following guiding questions:
 - How can you create some new feature? (e.g. state column from each location column)
 
 
-## Project 2 (Data Analysis) (WIP)
+## Project 2 (Data Analysis)
 ### Stack Overflow annual developer survey
 
 For this project Data with Mo provides the following guiding questions:
