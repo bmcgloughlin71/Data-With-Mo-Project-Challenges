@@ -36,6 +36,8 @@ For this project Data with Mo provides the following guiding questions:
 - What's the 2-week moving average? (7-day/30-day moving average?)
 - How can you make your visuals more dynamic and more-user friendly?
 
+My public Tableau profile can be found [here](https://public.tableau.com/app/profile/brian.mcgloughlin/vizzes)
+
 ## Project 4 (Data Engineering / Data Science) (WIP)
 ### Credit card approval prediction
 
